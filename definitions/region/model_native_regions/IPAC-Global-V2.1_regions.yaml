@@ -1,0 +1,78 @@
+- IPAC-Global-V2.1:
+  - IPAC-Global-V2.1|Brazil:
+      countries: Brazil
+  - IPAC-Global-V2.1|Canada:
+      countries: [Canada, Saint Pierre and Miquelon]
+  - IPAC-Global-V2.1|China:
+      countries: [China, Hong Kong, Macao]
+  - IPAC-Global-V2.1|Developed East Asia:
+      countries: [Christmas Island, Japan, South Korea, Taiwan]
+  - IPAC-Global-V2.1|Germany:
+      countries: Germany
+  - IPAC-Global-V2.1|India:
+      countries: India
+  - IPAC-Global-V2.1|Japan-Korea-Australia:
+      countries: [Tokelau, Tonga, Tuvalu, Vanuatu, Wallis and Futuna, Samoa]
+  - IPAC-Global-V2.1|Middle East:
+      countries: [United Arab Emirates, Bahrain, Iran, Iraq, Israel, Jordan, 
+        Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syria, Yemen]
+  - IPAC-Global-V2.1|North Africa:
+      countries: [Egypt, Gibraltar, Libya, Morocco, Sudan, South Sudan, Tunisia]
+  - IPAC-Global-V2.1|Oceania:
+      countries: [American Samoa, Australia, Cocos (Keeling) Islands, Fiji, 
+        Micronesia, Heard Island and McDonald Islands, Kiribati, Marshall Islands,
+        Northern Mariana Islands, New Caledonia, Norfolk Island, Niue, Nauru,
+        New Zealand, Pitcairn, Palau, French Polynesia,
+        South Georgia and the South Sandwich Islands, Solomon Islands, Togo]
+  - IPAC-Global-V2.1|Other Africa:
+      countries: [Angola, Burundi, Benin, Burkina Faso, Botswana, 
+        Central African Republic, Côte d'Ivoire, 
+        Democratic Republic of the Congo, Congo, Comoros, Cabo Verde, 
+        Djibouti, Algeria, Eritrea, Western Sahara, Ethiopia, Gabon, Ghana, 
+        Guinea, Gambia, Guinea-Bissau, Equatorial Guinea, Kenya, Liberia, 
+        Lesotho, Madagascar, Mali, Mozambique, Mauritania, Mauritius, Malawi, 
+        Mayotte, Namibia, Niger, Nigeria, Réunion, Rwanda, Senegal, 
+        "Saint Helena, Ascension and Tristan da Cunha", Sierra Leone, Somalia,
+        Sao Tome and Principe, Eswatini, Seychelles, Chad, Tanzania, Uganda, 
+        South Africa, Zambia, Zimbabwe]
+  - IPAC-Global-V2.1|Other Asia:
+      countries: [Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Mongolia, 
+        North Korea, Tajikistan, Turkmenistan, Uzbekistan]
+  - IPAC-Global-V2.1|Other East Europe:
+      countries: [Albania, Armenia, Bulgaria, Bosnia and Herzegovina, Belarus, 
+        Kosovo, Latvia, Moldova, North Macedonia, Romania, Serbia, Slovakia, 
+        Slovenia, Ukraine]
+  - IPAC-Global-V2.1|Other EU:
+      countries: [Åland Islands, Andorra, Austria, Belgium, Switzerland, 
+        Czechia, Denmark, Spain, Estonia, Finland, France, Faroe Islands, 
+        Guernsey, Greece, Greenland, Croatia, Hungary, Isle of Man, 
+        British Indian Ocean Territory, Ireland, Iceland, Italy, Jersey, 
+        Liechtenstein, Lithuania, Luxembourg, Monaco, Malta, Montenegro, 
+        Netherlands, Norway, Poland, Portugal, Svalbard and Jan Mayen, 
+        San Marino, Sweden, Turkey, Vatican]
+  - IPAC-Global-V2.1|Other South America:
+      countries: [Aruba, Anguilla, Argentina, Antarctica, 
+        French Southern Territories, Antigua and Barbuda, 
+        "Bonaire, Sint Eustatius and Saba", Bahamas, Saint Barthélemy, Belize, 
+        Bermuda, Bolivia, Barbados, Bouvet Island, Chile, Cameroon, Cook Islands, 
+        Colombia, Costa Rica, Cuba, Curaçao, Cayman Islands, Dominica, 
+        Dominican Republic, Ecuador, Falkland Islands (Malvinas), Guadeloupe, 
+        Grenada, Guatemala, French Guiana, Guyana, Honduras, Haiti, Jamaica, 
+        Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Mexico, 
+        Montserrat, Martinique, Nicaragua, Panama, Peru, Papua New Guinea, 
+        Puerto Rico, Paraguay, El Salvador, Suriname, Sint Maarten (Dutch part), 
+        Turks and Caicos Islands, Trinidad and Tobago, United States Minor Outlying Islands,
+        Uruguay, Saint Vincent and the Grenadines, Venezuela, British Virgin Islands,
+        United States Virgin Islands]
+  - IPAC-Global-V2.1|Russia:
+      countries: Russian Federation
+  - IPAC-Global-V2.1|South Asia:
+      countries: [Afghanistan, Bangladesh, Bhutan, Cyprus, Sri Lanka, Maldives,
+        Nepal, Pakistan]
+  - IPAC-Global-V2.1|South East Asia:
+      countries: [Brunei Darussalam, Indonesia, Cambodia, Laos, Myanmar, 
+        Malaysia, Philippines, Singapore, Thailand, Timor-Leste, Viet Nam]
+  - IPAC-Global-V2.1|UK:
+      countries: United Kingdom
+  - IPAC-Global-V2.1|USA:
+      countries: [United States, Guam]

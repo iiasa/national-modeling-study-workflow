@@ -1,0 +1,6 @@
+model: AD-MERGE 2.0.0
+native_regions:
+  - R1_CAN: Canada
+  - R2_CHN: China
+  - R3_India: India
+  - R4_USA: United States

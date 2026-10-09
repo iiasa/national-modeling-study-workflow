@@ -1,0 +1,105 @@
+model: GCAM-CGS-India v6.0
+native_regions:
+- Africa_Eastern: GCAM-CGS-India v6.0|Eastern Africa
+- Africa_Northern: GCAM-CGS-India v6.0|Northern Africa
+- Africa_Southern: GCAM-CGS-India v6.0|Southern Africa
+- Africa_Western: GCAM-CGS-India v6.0|Western Africa
+- Argentina: GCAM-CGS-India v6.0|Argentina
+- Australia_NZ: GCAM-CGS-India v6.0|Australia and New Zealand
+- Brazil: GCAM-CGS-India v6.0|Brazil
+- Canada: GCAM-CGS-India v6.0|Canada
+- Central America and Caribbean: GCAM-CGS-India v6.0|Central America and Caribbean
+- Central Asia: GCAM-CGS-India v6.0|Central Asia
+- China: GCAM-CGS-India v6.0|China
+- Colombia: GCAM-CGS-India v6.0|Colombia
+- EU-12: GCAM-CGS-India v6.0|EU-12
+- EU-15: GCAM-CGS-India v6.0|EU-15
+- Europe_Eastern: GCAM-CGS-India v6.0|Non-EU Eastern Europe
+- Europe_Non_EU: GCAM-CGS-India v6.0|Non-EU Southeast Europe
+- European Free Trade Association: GCAM-CGS-India v6.0|European Free Trade Association
+- India: GCAM-CGS-India v6.0|India
+- Indonesia: GCAM-CGS-India v6.0|Indonesia
+- Japan: GCAM-CGS-India v6.0|Japan
+- Mexico: GCAM-CGS-India v6.0|Mexico
+- Middle East: GCAM-CGS-India v6.0|Middle East
+- Pakistan: GCAM-CGS-India v6.0|Pakistan
+- Russia: GCAM-CGS-India v6.0|Russia
+- South Africa: GCAM-CGS-India v6.0|South Africa
+- South America_Northern: GCAM-CGS-India v6.0|Northern South America
+- South America_Southern: GCAM-CGS-India v6.0|Southern South America
+- South Asia: GCAM-CGS-India v6.0|South Asia
+- South Korea: GCAM-CGS-India v6.0|South Korea
+- Southeast Asia: GCAM-CGS-India v6.0|Southeast Asia
+- Taiwan: GCAM-CGS-India v6.0|Taiwan
+- USA: GCAM-CGS-India v6.0|USA
+common_regions:
+- Asia (R5):
+  - Central Asia
+  - China
+  - India
+  - Indonesia
+  - Pakistan
+  - South Asia
+  - South Korea
+  - Southeast Asia
+  - Taiwan
+- Latin America (R5):
+  - Brazil
+  - Central America and Caribbean
+  - Mexico
+  - South America_Northern
+  - South America_Southern
+  - Argentina
+  - Colombia
+- Middle East & Africa (R5):
+  - Africa_Eastern
+  - Africa_Northern
+  - Africa_Southern
+  - Africa_Western
+  - Middle East
+  - South Africa
+- OECD & EU (R5):
+  - USA
+  - Australia_NZ
+  - Canada
+  - EU-15
+  - Europe_Non_EU
+  - European Free Trade Association
+  - Japan
+- Reforming Economies (R5):
+  - EU-12
+  - Europe_Eastern
+  - Russia
+- World:
+  - Africa_Eastern
+  - Africa_Northern
+  - Africa_Southern
+  - Africa_Western
+  - Argentina
+  - Australia_NZ
+  - Brazil
+  - Canada
+  - Central America and Caribbean
+  - Central Asia
+  - China
+  - Colombia
+  - EU-12
+  - EU-15
+  - Europe_Eastern
+  - Europe_Non_EU
+  - European Free Trade Association
+  - India
+  - Indonesia
+  - Japan
+  - Mexico
+  - Middle East
+  - Pakistan
+  - Russia
+  - South Africa
+  - South America_Northern
+  - South America_Southern
+  - South Asia
+  - South Korea
+  - Southeast Asia
+  - Taiwan
+  - USA

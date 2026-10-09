@@ -1,0 +1,55 @@
+model: IPAC-Global-V2.1
+native_regions:
+  - Brazil: IPAC-Global-V2.1|Brazil
+  - Canada: IPAC-Global-V2.1|Canada
+  - China: IPAC-Global-V2.1|China
+  - Developed East Asia: IPAC-Global-V2.1|Developed East Asia
+  - Germany: IPAC-Global-V2.1|Germany
+  - India: IPAC-Global-V2.1|India
+  - Japan-Korea-Australia: IPAC-Global-V2.1|Japan-Korea-Australia
+  - Middle East: IPAC-Global-V2.1|Middle East
+  - North Africa: IPAC-Global-V2.1|North Africa
+  - Oceania: IPAC-Global-V2.1|Oceania
+  - Other Africa: IPAC-Global-V2.1|Other Africa
+  - Other Asia: IPAC-Global-V2.1|Other Asia
+  - Other East Europe: IPAC-Global-V2.1|Other East Europe
+  - Other EU: IPAC-Global-V2.1|Other EU
+  - Other South America: IPAC-Global-V2.1|Other South America
+  - Russia: IPAC-Global-V2.1|Russia
+  - South Asia: IPAC-Global-V2.1|South Asia
+  - South East Asia: IPAC-Global-V2.1|South East Asia
+  - UK: IPAC-Global-V2.1|UK
+  - USA: IPAC-Global-V2.1|USA
+  - Brazil
+  - Canada
+  - China
+  - Germany
+  - India
+common_regions:
+  - World:
+    - Brazil
+    - Canada
+    - China
+    - Developed East Asia
+    - Germany
+    - India
+    - Japan-Korea-Australia
+    - Middle East
+    - North Africa
+    - Oceania
+    - Other Africa
+    - Other Asia
+    - Other East Europe
+    - Other EU
+    - Other South America
+    - Russia
+    - South Asia
+    - South East Asia
+    - UK
+    - USA
+  - Russian Federation:
+    - Russia
+  - United Kingdom:
+    - UK
+  - United States:
+    - USA

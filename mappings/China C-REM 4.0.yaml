@@ -1,0 +1,36 @@
+model: China Regional Energy Model (C-REM) 4
+native_regions:
+- BJ: Beijing 
+- TJ: Tianjin 
+- HE: Hebei 
+- SX: Shanxi 
+- NM: Inner Mongolia 
+- LN: Liaoning 
+- JL: Jilin 
+- HL: Heilongjiang 
+- SH: Shanghai 
+- JS: Jiangsu 
+- ZJ: Zhejiang 
+- AH: Anhui 
+- FJ: Fujian 
+- JX: Jiangxi 
+- SD: Shandong 
+- HA: Henan 
+- HB: Hubei 
+- HN: Hunan 
+- GD: Guangdong 
+- GX: Guangxi 
+- HI: Hainan 
+- CQ: Chongqing 
+- SC: Sichuan 
+- GZ: Guizhou 
+- YN: Yunnan 
+- SN: Shaanxi 
+- GS: Gansu 
+- QH: Qinghai 
+- NX: Ningxia 
+- XJ: Xinjiang 
+- USA: United States
+- EUR: China Regional Energy Model (C-REM) 4|European Union and other European countries
+- ODC: China Regional Energy Model (C-REM) 4|Australia, Canada, Japan, New Zealand, and South Korea
+- ROW: China Regional Energy Model (C-REM) 4|Other countries and regions

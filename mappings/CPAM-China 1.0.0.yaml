@@ -1,0 +1,33 @@
+model: CPAM-China 1.0.0
+native_regions:
+- R01: Beijing
+- R02: Tianjin
+- R03: Hebei
+- R04: Shanxi
+- R05: Inner Mongolia
+- R06: Liaoning
+- R07: Jilin
+- R08: Heilongjiang
+- R09: Shanghai
+- R10: Jiangsu
+- R11: Zhejiang
+- R12: Anhui
+- R13: Fujian
+- R14: Jiangxi
+- R15: Shandong
+- R16: Henan
+- R17: Hubei
+- R18: Hunan
+- R19: Guangdong
+- R20: Guangxi
+- R21: Hainan
+- R22: Chongqing
+- R23: Sichuan
+- R24: Guizhou
+- R25: Yunnan
+- R26: Shaanxi
+- R27: Gansu
+- R28: Qinghai
+- R29: Ningxia
+- R30: Xinjiang
+- China
