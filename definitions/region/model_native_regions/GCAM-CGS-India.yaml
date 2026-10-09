@@ -1,0 +1,119 @@
+- GCAM-CGS-India v6.0:
+  - GCAM-CGS-India v6.0|Eastern Africa:
+      description: Eastern Africa
+      countries: [ Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Mauritius,
+        Réunion, Rwanda, Somalia, Sudan, South Sudan, Uganda ]
+  - GCAM-CGS-India v6.0|Northern Africa:
+      description: Northern Africa
+      countries: [ Algeria, Egypt, Libya, Morocco, Tunisia, Western Sahara ]
+  - GCAM-CGS-India v6.0|Southern Africa:
+      description: Southern Africa
+      countries: [ Angola, Mozambique, Malawi, Lesotho, Botswana, Tanzania,
+        Namibia, Eswatini, Zambia, Zimbabwe ]
+  - GCAM-CGS-India v6.0|Western Africa:
+      description: Western Africa
+      countries: [ Benin, Congo, Democratic Republic of the Congo, Cameroon, Chad, Central
+        African Republic, Cabo Verde, Equatorial Guinea, Gambia, Gabon, Ghana, Guinea,
+        Côte d'Ivoire, Liberia, Mali, Mauritania, Niger, Nigeria, Guinea-Bissau,
+        Senegal, Sierra Leone, Togo, Sao Tome and Principe, Burkina Faso ]
+  - GCAM-CGS-India v6.0|Argentina:
+      description: Argentina
+      countries: [ Argentina ]
+  - GCAM-CGS-India v6.0|Australia and New Zealand:
+      description: Australia and New Zealand
+      countries: [ Australia, New Zealand ]
+  - GCAM-CGS-India v6.0|Brazil:
+      description: Brazil
+      countries: [ Brazil ]
+  - GCAM-CGS-India v6.0|Canada:
+      description: Canada
+      countries: [ Canada ]
+  - GCAM-CGS-India v6.0|Central America and Caribbean:
+      description: Central America and Caribbean
+      countries: [ Antigua and Barbuda, Barbados, Bermuda, Bahamas, Belize, Cayman Islands, Costa
+        Rica, Cuba, Dominica, Dominican Republic, El Salvador, Grenada, Guatemala,
+        Haiti, Honduras, Jamaica, Martinique, Montserrat, Aruba, Anguilla, Curaçao,
+        Nicaragua, Panama, Saint Kitts and Nevis, Saint Lucia, Sint Maarten (Dutch part), Trinidad
+        and Tobago, Saint Martin (French part), Saint Vincent and the Grenadines, Guadeloupe, "Bonaire, Sint Eustatius and Saba" ]
+  - GCAM-CGS-India v6.0|Central Asia:
+      description: Central Asia
+      countries: [ Azerbaijan, Armenia, Georgia, Kyrgyzstan, Kazakhstan, Mongolia, Tajikistan,
+        Turkmenistan, Uzbekistan ]
+  - GCAM-CGS-India v6.0|China:
+      description: China
+      countries: [ China, Hong Kong, Macao ]
+  - GCAM-CGS-India v6.0|Colombia:
+      description: Colombia
+      countries: [ Colombia ]
+  - GCAM-CGS-India v6.0|EU-12:
+      description: EU-12
+      countries: [ Bulgaria, Cyprus, Estonia, Czechia, Hungary, Latvia, Lithuania, Slovakia,
+        Malta, Poland, Romania, Slovenia ]
+  - GCAM-CGS-India v6.0|EU-15:
+      description: EU-15
+      countries: [ Denmark, Ireland, Austria, Finland, Falkland Islands (Malvinas), France,
+        Greenland, Germany, Greece, Italy, Belgium, Faroe Islands, Andorra, Gibraltar,
+        Isle of Man, Luxembourg, Monaco, Netherlands, Portugal, Spain, Sweden, United
+        Kingdom, British Virgin Islands, Wallis and Futuna, Saint Pierre and
+        Miquelon, "Saint Helena, Ascension and Tristan da Cunha", San Marino, Turks and Caicos Islands, Vatican ] 
+  - GCAM-CGS-India v6.0|Non-EU Eastern Europe:
+      description: Non-EU Eastern Europe
+      countries: [ Belarus, Moldova, Ukraine ]
+  - GCAM-CGS-India v6.0|Non-EU Southeast Europe:
+      description: Non-EU Southeast Europe
+      countries: [ Albania, Bosnia and Herzegovina, Croatia, North Macedonia,
+      Montenegro, Turkey, Serbia ]
+  - GCAM-CGS-India v6.0|European Free Trade Association:
+      description: European Free Trade Association
+      countries: [ Iceland, Liechtenstein, Norway, Switzerland, "Svalbard and Jan Mayen" ]
+  - GCAM-CGS-India v6.0|India:
+      description: India
+      countries: [ India ]
+  - GCAM-CGS-India v6.0|Indonesia:
+      description: Indonesia
+      countries: [ Indonesia ]
+  - GCAM-CGS-India v6.0|Japan:
+      description: Japan
+      countries: [ Japan ]
+  - GCAM-CGS-India v6.0|Mexico:
+      description: Mexico
+      countries: [ Mexico ]
+  - GCAM-CGS-India v6.0|Middle East:
+      description: Middle East
+      countries: [ Bahrain, Iran, Israel, Iraq, Jordan, Kuwait, Lebanon, Oman,
+        Palestine, Qatar, Saudi Arabia, Syria, Yemen, United Arab Emirates ]
+  - GCAM-CGS-India v6.0|Pakistan:
+      description: Pakistan
+      countries: [ Pakistan ]
+  - GCAM-CGS-India v6.0|Russia:
+      description: Russia
+      countries: [ Russian Federation ]
+  - GCAM-CGS-India v6.0|South Africa:
+      description: South Africa
+      countries: [ South Africa ]
+  - GCAM-CGS-India v6.0|Northern South America:
+      description: Northern South America
+      countries: [ French Guiana, Guyana, Suriname, Venezuela ]
+  - GCAM-CGS-India v6.0|Southern South America:
+      description: Southern South America
+      countries: [ Bolivia, Chile, Ecuador, Paraguay, Peru, Uruguay ]
+  - GCAM-CGS-India v6.0|South Asia:
+      description: South Asia excluding India and Pakistan
+      countries: [ Bangladesh, Sri Lanka, Afghanistan, Bhutan, Maldives, Nepal ]
+  - GCAM-CGS-India v6.0|South Korea:
+      description: South Korea
+      countries: [ South Korea ]
+  - GCAM-CGS-India v6.0|Southeast Asia:
+      description: Southeast Asia
+      countries: [ American Samoa, Myanmar, Solomon Islands, Brunei Darussalam, Cambodia, Cook
+        Islands, Fiji, Micronesia, French Polynesia, Guam, North Korea, Kiribati, Laos,
+        Malaysia, New Caledonia, Niue, Northern Mariana Islands, Mayotte, Norfolk
+        Island, Cocos (Keeling) Islands, Christmas Island, Vanuatu, Nauru, Papua New
+        Guinea, Philippines, Seychelles, Singapore, Thailand, Tokelau, Tonga, Tuvalu,
+        Viet Nam, Samoa, Timor-Leste, Pitcairn, Palau, Marshall Islands ]
+  - GCAM-CGS-India v6.0|Taiwan:
+      description: Taiwan
+      countries: [ Taiwan ]
+  - GCAM-CGS-India v6.0|USA:
+      description: USA
+      countries: [ Puerto Rico, United States, United States Virgin Islands ]

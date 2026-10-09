@@ -1,0 +1,28 @@
+model: PROMETHEUS V1
+native_regions:
+  - World
+  - EU28: PROMETHEUS V1|EU28
+  - CHN: PROMETHEUS V1|CHN
+  - IND: PROMETHEUS V1|IND
+  - NOAM: PROMETHEUS V1|NOAM
+  - WPAC: PROMETHEUS V1|WPAC
+  - EPROD: PROMETHEUS V1|EPROD
+  - CIS: PROMETHEUS V1|CIS
+  - EMRG: PROMETHEUS V1|EMRG
+  - RESTW: PROMETHEUS V1|RESTW
+common_regions:
+  - Asia (R5):
+    - CHN
+    - IND
+  - Latin America (R5):
+    - EMRG
+  - Middle East & Africa (R5):
+    - EPROD
+  - OECD & EU (R5):
+    - EU28
+    - NOAM
+    - WPAC
+  - Reforming Economies (R5):
+    - CIS
+  - Other (R5):
+    - RESTW

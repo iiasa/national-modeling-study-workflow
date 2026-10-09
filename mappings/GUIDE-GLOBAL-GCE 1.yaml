@@ -1,0 +1,8 @@
+model: GUIDE-GLOBAL-CGE 1
+native_regions: 
+- 01_KOR: South Korea
+- 02_CHN: China
+- 03_JPN: Japan
+- 04_RUS: Russian Federation
+- 05_MNG: Mongolia
+- 06_PRK: North Korea

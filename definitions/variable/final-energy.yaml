@@ -1,0 +1,18 @@
+- Final Energy|Industry|Solids|Coal:
+    description: Final energy consumption by the industrial sector from coal including lignite
+    unit: EJ/yr
+- Final Energy|Commercial|Solids|Coal:
+    description: Final energy consumption by the commercial sector from coal including lignite
+    unit: EJ/yr
+- Final Energy|Residential|Solids|Coal:
+    description: Final energy consumption by the residential sector from coal including lignite
+    unit: EJ/yr
+- Final Energy|Non-Energy Use|Biomass:
+    description: Final energy consumption in non-combustion processes from biomass
+    unit: EJ/yr
+- Final Energy|Non-Energy Use|Oil:
+    description: Final energy consumption in non-combustion processes from conventional and unconventional crude oil
+    unit: EJ/yr
+- Final Energy|Solids|Coal:
+    description: Final energy consumption from coal including lignite
+    unit: EJ/yr
