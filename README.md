@@ -1,35 +1,15 @@
-# Scenario Explorer Workflow Template
+# IAMC National Modeling Study Phase 2 Scenario Explorer Workflow
 
 Copyright 2022-2026 IIASA
 
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/charliermarsh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-## Setup
+This repository contains the processing workflow scripts and nomenclature definitions
+(variables, regions, and scenarios) for the project-internal IIASA Scenario Explorer
+instance of the IAMC National Modeling Study.
 
-- Create a repository using this template.
-- Deactivate "merge commits" and "rebase merging" in the Settings
-  (so that only "squash merging" is allowed)
-- Add two webhooks in `<workflow-name>-workflow` repository:
-
-  ```
-  Payload URL 1: https://builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Payload URL 2: https://next-builds.ece.iiasa.ac.at/generic-webhook-trigger/invoke?token=uSnGsckCqQ6z6EMCxXCFyTDPpvmp8MyDnBcu2bHoSB7VdKjn
-  Content type: application/json
-  Secret: Passbolt Jenkins HMAC Secret
-  ```
-- Add `ece-scenario-services-team` as collaborators with `Admin` role in the settings of the repository and remove your personal access if you are part of the team.
-
-## Overview
-
-This is a template for project-specific scenario processing workflows.
-
-To use this template for a project, do the following:
-- Create a new repository from this template
-- Update the title and overview section of this Readme
-- Start adding definitions and mappings 
-- If you want to use the [common-definitions](https://github.com/IAMconsortium/common-definitions)
-  developed and maintained by the IAMC, rename the file `nomenclature_template.yaml`
-  to `nomenclature.yaml`.
+<img src="./_static/iamc_logo_coloured.png" width="100" align="left" alt="IAMC logo" />
+This activity is coordinated by the IAMC Scientific Working Group on National Scenarios.
 
 ### Project nomenclature
 
