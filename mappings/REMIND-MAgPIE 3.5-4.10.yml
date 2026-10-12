@@ -26,7 +26,6 @@ native_regions:
   - EWN: REMIND-MAgPIE 3.5-4.10|EU North-West Europe
   - NEN: REMIND-MAgPIE 3.5-4.10|Non-EU Northern Europe
   - NES: REMIND-MAgPIE 3.5-4.10|Non-EU Southern Europe
-  - USA
 common_regions:
   - World:
     - CAZ
