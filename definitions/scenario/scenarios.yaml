@@ -1,6 +1,3 @@
-- BAU:
-    description: Business as usual
-- NZS:
-    description: Country declared Net Zero
-- CPS:
-    description: Current policies
+# Please add a NMFS-Phase-prefix when defining scenario names
+- Test-*:
+    description: Test scenario
