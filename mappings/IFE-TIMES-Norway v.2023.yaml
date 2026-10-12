@@ -5,7 +5,6 @@ native_regions:
   - NO3: IFE-TIMES-Norway v.2023|NO3
   - NO4: IFE-TIMES-Norway v.2023|NO4
   - NO5: IFE-TIMES-Norway v.2023|NO5
-  - Norway
 common_regions:
 - Norway:
   - NO1
